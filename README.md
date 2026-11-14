@@ -1,13 +1,13 @@
 # ˚₊‧꒰ა My Data Science Portfolio ໒꒱ ‧₊˚
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Statistics-FFC8DD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Science-CDB4DB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Analytics-BDE0FE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FFDAC1?style=for-the-badge"/>
 </p>
 
-<p align="center">
+<p>
   A collection of my projects, experiments and explorations in Statistics, Data Science and Analytics.
 </p>
 
