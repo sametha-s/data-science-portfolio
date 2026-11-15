@@ -50,8 +50,8 @@ Projects exploring statistical analysis, data manipulation, visualisation and pr
 | Project | Description |
 |:---|:---|
 | [🩷 Stroke Prediction using Logistic Regression](https://github.com/sametha-s/stroke_prediction_logit) | Exploring stroke prediction through logistic regression |
-| [" ✈️ airquality" Dataset Analysis](https://github.com/sametha-s/airquality-analysis) | Analysing the "airquality" dataset in R with models, visualisation and transformations |
-| [" 🌳 "Trees" Dataset Analysis](https://github.com/sametha-s/trees-data-analysis) | Analysing "Trees" in R |
+| [✈️ "airquality" Dataset Analysis](https://github.com/sametha-s/airquality-analysis) | Analysing the "airquality" dataset in R with models, visualisation and transformations |
+| [🌳 "Trees" Dataset Analysis](https://github.com/sametha-s/trees-data-analysis) | Analysing the "Trees" Dataset in R - Linear Model Transformations |
 
 ---
 
