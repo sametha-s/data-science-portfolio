@@ -74,9 +74,7 @@ Projects involving relational databases, SQL queries and data exploration.
 
 ---
 
-## 🎀 LaTeX & Mathematical Documentation
-
-Using LaTeX for mathematical notation, statistical formulas and technical documentation.
+## 🎀 Full-Stack Projects
 
 More projects coming soon! ♡
 
